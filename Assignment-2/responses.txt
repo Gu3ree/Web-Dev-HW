@@ -1,0 +1,7 @@
+Data travels through light and breaks into packets and travels across the network, and carries a maximum of 1,500 bytes.
+
+An IP address is an address assigned to any computer. A Domain Name Server (DNS) is used to convert alphabetic references into a server's IP address.
+
+A cookie is a piece of data stored and sent to a user's computer.
+
+The three basic parts of URL are protocol, domain and path.
