@@ -15,3 +15,7 @@ Self-hosted media often charges a person extra if they use a significant amount 
 I had some confusion as usual but looked at other students work which helped and I did some reviewing on the previous modules. I had fun learning about the div elements and I now have a clearer understanding of how websites are structured and organized. Choosing a favorite song was difficult, but ultimately I had to make a decision. Some of my favorite songs do not have a music video. Paul McCartney's "Mr. Bellamy" (2007) for instance does not. In researching the song I chose,"Hurt", I was surprised to find out that the song was not originally performed by Cash, but it was actually written and performed by Trent Reznor.
 
 **Screenshot**
+
+<div id="image">
+<img scr=".images/Screen%20Shot%202018-03-26%20at%203.50.23%20AM.png
+</div>
