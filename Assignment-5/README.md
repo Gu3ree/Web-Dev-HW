@@ -16,6 +16,4 @@ I had some confusion as usual but looked at other students work which helped and
 
 **Screenshot**
 
-<div id="image">
-<img scr=".images/Screen%20Shot%202018-03-26%20at%203.50.23%20AM.png
-</div>
+![screen shot 2018-03-26 at 5 17 24 am](https://user-images.githubusercontent.com/35827571/38119615-51d8261c-3380-11e8-990d-f7f43be5c710.png)
