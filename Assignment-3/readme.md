@@ -7,4 +7,4 @@ Each page can have multiple "body" and "head"s elements within a page. The <head
 ***Semantic markup*** is helpful because it can emphasize words e.g. bold, italics or quotes.
 
 The work cycle was interesting and challenging. It was easier this time around, but I still had some trouble getting the beet cake image to appear on the website.
-![Screen Shot 2018-05-05 at 4.29.46 PM]file:///Users/Gu3ree/Desktop/Screen%20Shot%202018-05-05%20at%204.29.46%20PM.png
+![Screen Shot 2018-05-05 at 4.29.46 PM](https://github.com/Gu3ree/Web-Dev-HW/blob/master/Assignment-3/images/Screen%20Shot%202018-05-05%20at%204.29.46%20PM.png)
