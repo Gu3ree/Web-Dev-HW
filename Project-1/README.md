@@ -3,7 +3,7 @@
 Project 1
 </h1>
 <h2>
-## Guthrie McLean
+Guthrie McLean
 </h2>
 
 ### Browsers
