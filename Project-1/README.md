@@ -2,7 +2,9 @@
 <h1>
 Project 1
 </h1>
+<h2>
 ## Guthrie McLean
+</h2>
 
 ### Browsers
 For the past few years, Google Chrome has become so convenient for me that I just use it all the time on my iPhone or laptop. I don't bother using Safari at all since it always has connection problems. What I like about the Chrome browser and what makes it easy to use. I can search anything easily on my search engine without having to click on the Google search bar. Also, my links save on my history. Google Chrome has a way of finding information very quickly, for instance, if I want to find out a store's business hours, it automatically appears. It will only do that however, if the browser knows your location. It is somewhat more reliable than Siri. I don't mind using other browsers. It's just that Google Chrome is easiest.
