@@ -9,3 +9,5 @@ Web designing and HTML coding has been fun and interesting to me. This project h
 
 Adding things like tables, heads and titles weren't new to me. What I found particularly difficult was adding alt, width, height with my images and making sure everything was the right size. Sometimes I would forget to use quotation marks for inserting my images and they wouldn't appear. I added spaces on my tables this time to help keep track of everything and make it easier to navigate. That being said, this was no simple task.
 I don't know too much about CSS but I am excited to learn. I'm ready to move away from basic HTML.
+
+![screen shot](https://github.com/Gu3ree/Web-Dev-HW/blob/master/Project-2/images/Screen%20Shot%202018-05-09%20at%203.27.02%20AM.png)
