@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-
-
+p {
+  font-family: 'YeonSung';
+}
 body {
   background-color: wheat;
 }
-
 .Title {
   color: FireBrick;
   font-family: EastSeaDokdo-Regular;
@@ -19,46 +18,8 @@ body {
   text-align: center;
 }
 
-.Chapter {
-  color: Black;
-  text-decoration: overline;
-  text-align: center;
-}
-
-.Excerpt {
-  font-family: Roboto, normal;
-  color: Black;
-  text-align: justify;
-}
-
-.Excerpt p:first-child::first-letter {
-  color: FireBrick;
-  font-weight:bold;
-  font-family: EastSeaDokdo-Regular;
-  font-size: 40pt;
-}
-
-a {
-    text-decoration: none;
-    color: FireBrick;
-    font-weight: bold;
-    font-family: EastSeaDokdo-Regular;
-    font-size: 40pt;
-}
-
-.button:hover {
-  color: Black;
-  font-style: italic;
-}
-
-.button:active {
-  color: black;
-  background-color: SlateGray;
-  border-color: black;
-  border-width: 15px;
-}
-
-.button:visited {
-  color: SlateGray;
-  font-style: italic;
+.imagebox {
+  width:500px;
+  float:right;
+  margin: 15px 0px 15px 30px;
 }

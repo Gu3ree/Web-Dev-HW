@@ -6,7 +6,7 @@ body {
 }
 .Title {
   color: FireBrick;
-  font-family: EastSeaDokdo-Regular;
+  font-family: TitanOne;
   text-align: center;
   font-size: 20pt;
   line-height: 1.5em;
@@ -15,5 +15,13 @@ body {
 .Author {
   color: Black;
   font-size: 120%;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
   text-align: center;
 }
