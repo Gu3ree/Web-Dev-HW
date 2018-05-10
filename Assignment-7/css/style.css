@@ -1,0 +1,19 @@
+p {
+  font-family: 'YeonSung';
+}
+body {
+  background-color: yellow;
+}
+.Title {
+  color: FireBrick;
+  font-family: EastSeaDokdo-Regular;
+  text-align: center;
+  font-size: 20pt;
+  line-height: 1.5em;
+}
+
+.Author {
+  color: Black;
+  font-size: 120%;
+  text-align: center;
+}
