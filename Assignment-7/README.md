@@ -1,4 +1,4 @@
 # Assignment 7 Summary
 ## Guthrie McLean
 
-![screenshot](Screen Shot 2018-05-11 at 2.56.25 AM)
+![screenshot](https://github.com/Gu3ree/Web-Dev-HW/tree/master/Assignment-7/images)
